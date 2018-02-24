@@ -1,2 +1,2 @@
 # image-recognizer
-Recognizes an image and returns tags
+Object detection and recognizer
